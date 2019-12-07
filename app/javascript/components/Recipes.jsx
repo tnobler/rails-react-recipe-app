@@ -54,9 +54,7 @@ class Recipes extends React.Component {
           <div className="container py-5">
             <h1 className="display-4">Recipes for every occasion</h1>
             <p className="lead text-muted">
-              We’ve pulled together our most popular recipes, our latest
-              additions, and our editor’s picks, so there’s sure to be something
-              tempting for you to try.
+              We’ve pulled together our favorite recipes, from our mom's repertoire, so that we could access them anytime and so can you.
             </p>
           </div>
         </section>
